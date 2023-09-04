@@ -1,6 +1,6 @@
 # CplusplusCode
 This repository refers to my C++ coding courseworks as part of my degree, which can be provided upon request. See below for a brief description of their subject matter.
-
+I additionally have a statistical research project coded in R that can be made available upon request.
 
 The first .zip file is the first of two courseworks in my most recent programming module during my master's degree, where I produced a 2D Finite Difference solver to answer specific questions given (cannot provide questions). I achieved 81% (strong first) on this coursework.
 
